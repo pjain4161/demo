@@ -1,0 +1,58 @@
+.gcBlueText {
+  color:#1958b7;
+}
+.gcBold {
+  font-weight:700;
+}
+.gcBlueBackground {
+  background-color: #1958b7 !important;
+}
+
+.gcWhiteText {
+  color:white !important;
+  font-weight:100;
+}
+
+.gcGreyText {
+  color:#404040;
+  font-weight:100;
+}
+
+.gcStandardText {
+  font-size:16px;
+  letter-spacing:1px;
+}
+
+.gcPageHeader {
+  margin-top:0px !important;
+  margin-bottom:20px !important;
+}
+
+.gcButton {
+  text-transform: uppercase;
+  border-radius:0px;
+  width:auto;
+  border:none;
+  padding:7px;
+  text-align:center;
+}
+
+.blueButton,
+.blueButton:hover,
+.blueButton:active,
+.blueBUtton:focus {
+  color: white;
+  background-color: #1958b7;
+}
+
+.form-control {
+  background-color:#e7e7e7 !important;
+  border:none !important;
+  border-radius:0px !important;
+}
+
+#root > div > div > .container {
+  padding:0 !important;
+  width:92vw !important;
+  height:calc(100vh - 70px - 4vw);
+}
